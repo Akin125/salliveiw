@@ -1,15 +1,21 @@
-# Google Drive PDF Preview App
+# salliview - Google Drive PDF Viewer
 
-A minimal, production-ready Next.js application for previewing public Google Drive PDFs in read-only mode.
+A simple, clean Next.js application for viewing public Google Drive PDFs.
 
 ## Features
 
 ✅ **Simple URL-based access**: `/preview/[FILE_ID]`  
-✅ **Read-only viewing**: No authentication or uploads  
-✅ **Comprehensive error handling**: Multiple error boundaries  
+✅ **Read-only viewing**: No authentication required  
+✅ **Fast loading**: 3-second timeout with skip option  
 ✅ **Responsive design**: Works on all devices  
-✅ **Zero configuration**: No API keys or backend required  
-✅ **Production-ready**: Built with TypeScript and Tailwind CSS
+✅ **Zero configuration**: No API keys needed  
+✅ **Production-ready**: Built with Next.js 14 and TypeScript
+
+## 🚀 Deployed on Vercel
+
+Your app is ready to deploy! See **DEPLOY_NOW.md** for step-by-step instructions.
+
+**Quick Deploy**: Visit https://vercel.com → Import `Akin125/salliveiw` → Click Deploy
 
 ## Quick Start
 
